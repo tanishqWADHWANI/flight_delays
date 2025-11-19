@@ -1,0 +1,7 @@
+pandas
+numpy
+dask
+dbt-bigquery
+google-cloud-bigquery
+sqlalchemy
+jinja2
