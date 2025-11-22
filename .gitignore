@@ -1,3 +1,10 @@
+# raw path files
+data/raw/
+*.zip
+*.csv
+processed/
+*.parquet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
